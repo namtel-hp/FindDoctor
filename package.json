@@ -1,0 +1,23 @@
+{
+  "name": "finddoctor",
+  "version": "1.0.0",
+  "description": "Find a doctor based on your insurance plan and your location",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stanleychuwu/FindDoctor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stanleychuwu/FindDoctor/issues"
+  },
+  "homepage": "https://github.com/stanleychuwu/FindDoctor#readme",
+  "dependencies": {
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0"
+  }
+}
